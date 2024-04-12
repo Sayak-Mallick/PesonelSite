@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --body-large-400: Inter;
+  --body-regular-400: "Public Sans";
+  --font-roboto: Roboto;
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --font-size-13xl: 32px;
+  --body-regular-400-size: 16px;
+  --header-heading-4-size: 24px;
+  --body-small-400-size: 14px;
+  --body-large-400-size: 20px;
+  --heading-heading-1-size: 40px;
+  --font-size-xs-6: 11.6px;
+  --font-size-2xs-8: 10.8px;
+  --font-size-sm-6: 13.6px;
+  --font-size-mini-5: 14.5px;
+  --display-size: 52px;
+
+  /* Colors */
+  --gray-white: #fff;
+  --color-darkslategray-100: #4a504b;
+  --gray-700: #363a3d;
+  --color-gainsboro-100: #dfdfdf;
+  --color-gainsboro-200: rgba(226, 226, 226, 0.1);
+  --gray-500: #6d737a;
+  --primary-800: #1e2640;
+  --gray-black: #1b1d1f;
+  --primary-900: #0f1320;
+  --primary-50: #edeff6;
+  --primary-500: #4a60a1;
+  --primary-700: #2c3a61;
+  --color-gray1: rgba(0, 0, 0, 0.5);
+  --color-darkgray: #9c9c9c;
+  --gray-400: #889099;
+  --color-whitesmoke: #eaeaea;
+  --primary-400: #6e80b4;
+
+  /* Gaps */
+  --gap-31xl: 50px;
+  --gap-13xl: 32px;
+  --gap-base: 16px;
+  --gap-xl: 20px;
+  --gap-5xs: 8px;
+  --gap-21xl: 40px;
+  --gap-mid: 17px;
+  --gap-3xs: 10px;
+  --gap-5xl: 24px;
+  --gap-20xl: 39px;
+  --gap-4xl: 23px;
+  --gap-4xs-7: 8.7px;
+  --gap-7xs-8: 5.8px;
+  --gap-8xs-4: 4.4px;
+  --gap-2xs: 11px;
+  --gap-8xs: 5px;
+
+  /* Paddings */
+  --padding-11xs: 2px;
+  --padding-31xl: 50px;
+  --padding-sm: 14px;
+  --padding-67xl: 86px;
+  --padding-3xs: 10px;
+  --padding-11xl: 30px;
+  --padding-xs: 12px;
+  --padding-base: 16px;
+  --padding-5xl: 24px;
+  --padding-41xl: 60px;
+  --padding-mini: 15px;
+  --padding-smi: 13px;
+  --padding-10xs-9: 2.9px;
+  --padding-3xl: 22px;
+  --padding-21xl: 40px;
+
+  /* Border radiuses */
+  --br-5xs: 8px;
+  --br-xs: 12px;
+  --br-9xs: 4px;
+  --br-7xs: 6px;
+  --br-3xs: 10px;
+  --br-11xs-5: 1.5px;
+}

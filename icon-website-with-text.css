@@ -1,0 +1,17 @@
+.group-icon {
+  position: absolute;
+  height: 111.03%;
+  width: 111.03%;
+  top: -5.56%;
+  right: -5.47%;
+  bottom: -5.47%;
+  left: -5.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-website-with-text {
+  position: relative;
+  width: 100%;
+  height: 39px;
+}
